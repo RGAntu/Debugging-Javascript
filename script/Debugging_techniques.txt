@@ -1,0 +1,19 @@
+** Why is Debugging Important?
+1. Correct functionality
+2. Efficiency 
+3. Reliability
+4. User experience
+
+
+*** Debugging Steps 
+1. Error Identification
+2. Error Analysis
+3. Fix and validation
+
+
+*** Common Debugging Techniques 
+1. console.log
+2. Breakpoint
+3. debugger keyword
+4. Backtracking
+5. Forward tracking
